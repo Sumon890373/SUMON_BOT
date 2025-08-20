@@ -9,16 +9,16 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "Joy-bot",
+  "BOTNAME": "SUMON BOT",
   "PREFIX": ".",
   "react": "☠️",
   "OPERATOR": [
     "",
-    "100001435123762"
+    "61575312276649"
   ],
   "ADMINBOT": [
-    "100001435123762",
-    ""
+    "61575312276649",
+    "61575312276649"
   ],
   "OWNER": ["100001435123762"], 
   "APPROVED": [],
