@@ -20,7 +20,7 @@ module.exports.config = {
 
 module.exports.run = async function ({ api, event }) {
   const currentTime = moment.tz("Asia/Dhaka").format("DD MMM YYYY, hh:mm:ss A");
-  const imageUrl = "https://graph.facebook.com/61575312276649/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662";
+  const imageUrl = "https://graph.facebook.com/100067185640846/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662";
   const imgPath = __dirname + "/cache/admin_avatar.png";
 
   const infoText = `
@@ -35,7 +35,7 @@ module.exports.run = async function ({ api, event }) {
 📧 𝗘𝗺𝗮𝗶𝗹: 𝐌𝐝𝐬𝐮𝐦𝐨𝐧𝐢𝐬𝐥𝐚𝐦124@gmail.com
 📞 𝗪𝗵𝗮𝘁𝘀𝗔𝗽𝗽: +8801975257710
 ✈️ 𝗧𝗲𝗹𝗲𝗴𝗿𝗮𝗺: t.me/VPN KINK_SUMON_88
-🔗 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸:https://www.facebook.com/profile.php?id=61575312276649 
+🔗 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸: https://www.facebook.com/o.o.joto.kotha.rakha.chilo.ei.buke.joma.153608 
 
 ⏰ 𝗧𝗶𝗺𝗲: ${currentTime}
 ╰╼|━━━━━━━━━━━━━━|╾╯`;
