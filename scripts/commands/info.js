@@ -23,7 +23,7 @@ module.exports.config = {
 module.exports.run = async function ({ api, event }) {
   const currentTime = moment.tz("Asia/Dhaka").format("『D/MM/YYYY』 【hh:mm:ss】");
 
-  const imageUrl = "https://graph.facebook.com/61575312276649/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662";
+  const imageUrl = "https://graph.facebook.com/100067185640846/picture?height=720&width=720&access_token=6628568379%7Cc1e620fa708a1d5696fb991c1bde5662";
   const imgPath = __dirname + "/cache/info_avatar.png";
 
   const infoText = `
@@ -76,7 +76,7 @@ module.exports.run = async function ({ api, event }) {
 ╰╼|━━━━━━━━━━━━━━|╾╯
 
 ╭╼|━━━━━━━━━━━━━━|╾╮
-🔗 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 𝗟𝗶𝗻𝗸 : https://www.facebook.com/profile.php?id=61575312276649
+🔗 𝗙𝗮𝗰𝗲𝗯𝗼𝗼𝗸 𝗟𝗶𝗻𝗸 : https://www.facebook.com/o.o.joto.kotha.rakha.chilo.ei.buke.joma.153608?mibextid=rS40aB7S9Ucbxw6v
 ╰╼|━━━━━━━━━━━━━━|╾╯
 
 ╭╼|━━━━━━━━━━━━━━|╾╮
