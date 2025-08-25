@@ -9,7 +9,7 @@
   "saveState": true,
   "banMsg": false,
   "adminOnlyMsg": false,
-  "BOTNAME": "SUMON BOT",
+  "BOTNAME": "SUMON_BOT",
   "PREFIX": ".",
   "react": "☠️",
   "OPERATOR": [
